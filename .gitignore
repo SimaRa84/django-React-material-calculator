@@ -1,0 +1,105 @@
+# Django #
+backEnd/*.log
+backEnd/*.pot
+backEnd/*.pyc
+backEnd/__pycache__
+backEnd/db.sqlite3
+backEnd/media
+
+backEnd/local_settings.py
+
+
+# Python # 
+backEnd/*.py[cod] 
+backEnd/*$py.class 
+
+# Distribution / packaging 
+backEnd/.Python
+backEnd/build/
+backEnd/develop-eggs/
+backEnd/dist/
+backEnd/downloads/
+backEnd/eggs/
+backEnd/.eggs/
+backEnd/lib/
+backEnd/lib64/
+backEnd/parts/
+backEnd/sdist/
+backEnd/var/
+backEnd/wheels/
+backEnd/share/python-wheels/
+backEnd/*.egg-info/
+backEnd/.installed.cfg
+backEnd/*.egg
+
+# Installer logs 
+backEnd/pip-log.txt 
+backEnd/pip-delete-this-directory.txt 
+
+# pyenv 
+backEnd/.python-version 
+ 
+
+
+# Environments 
+backEnd/.env 
+backEnd/.venv 
+backEnd/env/ 
+backEnd/venv/ 
+backEnd/ENV/ 
+backEnd/env.bak/ 
+backEnd/venv.bak/ 
+backEnd/myenv/
+
+# mkdocs documentation 
+backEnd/site 
+
+# mypy 
+backEnd/.mypy_cache/ 
+
+
+# sftp configuration file 
+backEnd/sftp-config.json 
+
+# Visual Studio Code # 
+backEnd/.vscode/* 
+backEnd/!.vscode/settings.json 
+backEnd/!.vscode/tasks.json 
+backEnd/!.vscode/launch.json 
+backEnd/!.vscode/extensions.json 
+backEnd/.history
+
+# virtualenv #
+backEnd/.venv/
+backEnd/venv/
+backEnd/ENV/
+backEnd/env/
+backEnd/venv.bak/
+backEnd/venv.bak/
+backEnd/myvirtualenv/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+frontEnd/node_modules
+frontEnd/node_modules/.bin
+
+frontEnd/.pnp
+frontEnd/.pnp.js
+
+# testing
+frontEnd//coverage
+
+# production
+frontEnd//build
+
+# misc
+frontEnd/.DS_Store
+frontEnd/.env.local
+frontEnd/.env.development.local
+frontEnd/.env.test.local
+frontEnd/.env.production.local
+
+frontEnd/npm-debug.log*
+frontEnd/yarn-debug.log*
+frontEnd/yarn-error.log*

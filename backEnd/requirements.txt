@@ -1,0 +1,6 @@
+Django
+django-widget-tweaks
+mysqlclient
+django-cors-headers
+python-decouple
+
